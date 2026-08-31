@@ -1,0 +1,6 @@
+{
+    "gemini_api_key":"",
+    "discord_token":"",
+    "channel_id":"",
+    "system_prompt": "You're an discord ai chatbot, you're supposed to follow their rules, and not go over the discord character limit."
+}
