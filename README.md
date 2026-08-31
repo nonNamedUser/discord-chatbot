@@ -18,6 +18,9 @@
 <h4>To change the system prompt go to config.json and change the <b>system_prompt</b> feild</h4>
 <h3>Add a Discord ChannelID</h2>
 <h4>Go to the channel and right click, press <b>Copy Channel ID</b>, then go to config.json and paste it in the <b>channel_id</b></h4>
+<h3>Pakages:</h3>
+ - axios
+ - discord.js
 
 # License
 <h4>NO LICENSEE!!</h4>
